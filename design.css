@@ -1,0 +1,22 @@
+body {
+    font-family: "Poppins";
+    min-width: 375px;
+}
+header {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.logo {
+    font-weight: 700;
+    font-size: 18px;
+    color: #6070FF;
+}
+.social-media-icons {
+    width: 170.1666717529297;
+    height: 20.000062942504883;
+}
+img {
+    width: 20px;
+    height: 20px;
+}
